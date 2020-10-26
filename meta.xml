@@ -1,0 +1,24 @@
+<meta>
+    <script src="client.lua" type="client" cache="false"/>
+    <script src="server.lua" type="server"/>
+
+    <file src="files/Speedometr.ttf"/>
+    <file src="files/Font.ttf"/>
+    
+    <file src="files/engine.png"/>
+	<file src="files/rem.png"/>
+	<file src="files/light.png"/>
+    <file src="files/cruise.png"/>
+    <file src="files/limit.png"/>
+    <file src="files/benzin.png"/>
+
+    <file src="files/rear1.png"/>
+
+    <file src="files/electro.png"/>
+
+    <file src="files/Hud.png"/>
+
+    <file src="files/img.png"/>
+    
+    <file src="files/rem.mp3"/>
+</meta>
